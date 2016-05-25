@@ -23,7 +23,6 @@
 
 */
 
-
 #include <DynamixelSerial.h>
 
 //  Directive macro for every PIN on arduino nano
