@@ -17,7 +17,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 * AUTHOR
-    Faruq Sandi ( )
+    Faruq Sandi (faruq.sandi@gmail.com)
     Muhammad Fadlullah (muhammadfadlullah9@gmail.com)
     Ahmad Waris Al H (warishafidz@gmail.com)
 
